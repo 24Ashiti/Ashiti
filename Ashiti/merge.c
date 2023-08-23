@@ -9,7 +9,7 @@ int main()
     printf("enter name:");
     scanf("%s",&b);
 
-    for(i=0;a[i]!='\0';i++) 
+    for(i=0;a[i]!='\0';i++)  
     {
     }
 	a[i] = ' ';
